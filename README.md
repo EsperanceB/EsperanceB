@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center"> Hi 👋 I'm Esperance </h1>
+<h1 align="center"> Hi 🤗 I'm Esperance </h1>
 
 <div align="center">
   <samp>
@@ -61,9 +61,6 @@
 <a href="https://medium.com/@esperancemuk25" target="_blank">~Esperance NGALU~ On Medium</a> 
 
 ---
-<-- <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/kadarahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kadarahmed" /></a></p><br><br></br>
--->
 
 ---
 
