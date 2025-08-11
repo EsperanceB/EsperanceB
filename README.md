@@ -8,7 +8,7 @@
 
 <div align="center">
   <samp>
-    <p>Thoughts, views, and opinions expressed on this page are solely my own and not those of my employers 💭</p>
+    <p>Thoughts, views, and opinions expressed on this page are solely my own💭</p>
     <p>Passionate about Machine Learning, Cloud Computing and environemental science for sustainable development. </p>
     <p>I love solving proplems, with a can do attitude. With growing Skills in AWS cloud platforms, Machine Learning and Maths 🌐</p>
   </samp>
