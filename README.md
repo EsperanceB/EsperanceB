@@ -51,7 +51,7 @@
   
 - 💙 Passionate about **Machine Learning + Maths**
 - 📫 Reach me at **esperancemuk25@gmail.com** 
-- 🏆 Find my AWS Achievement at **https://skillsprofile.skillbuilder.aws/user/EsperanceB/certification-badges**
+- 🏆 Find my AWS Achievements at **https://skillsprofile.skillbuilder.aws/user/EsperanceB/certification-badges**
 
 
 ### Blogs posts:
