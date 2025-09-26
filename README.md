@@ -10,7 +10,7 @@
   <samp>
     <p>Thoughts, views, and opinions expressed on this page are solely my own💭</p>
     <p>Passionate about Machine Learning, Cloud Computing and environemental science for sustainable development. </p>
-    <p>I love solving proplems, with a can do attitude. With growing Skills in AWS cloud platforms, Machine Learning and Maths 🌐</p>
+    <p>I love solving proplems, with a can do attitude. With growing Skills in AWS cloud platforms, Machine Learning and AI 🌐</p>
   </samp>
 </div>
 
@@ -50,10 +50,8 @@
 ---
   
 - 💙 Passionate about **Machine Learning + Maths**
-
-- 😅 Fun fact **I speak 4 Languages**
-
 - 📫 Reach me at **esperancemuk25@gmail.com** 
+- 🏆 Find my AWS Achievement at **https://skillsprofile.skillbuilder.aws/user/EsperanceB/certification-badges**
 
 
 ### Blogs posts:
