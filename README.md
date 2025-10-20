@@ -9,7 +9,7 @@
 <div align="center">
   <samp>
     <p>Passionate about Machine Learning, Cloud Computing and environemental science for sustainable development. </p>
-    <p>I love solving proplems, with a can do attitude. With growing Skills in AWS cloud platforms, Machine Learning and AI 🌐</p>
+    <p>I love solving proplems, with a can do attitude. With growing Skills in AWS cloud platforms, Machine Learning and AI, and Sofware Development 🌐</p>
   </samp>
 </div>
 
