@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="strip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1EC8C8"/>
+      <stop offset="0.5" stop-color="#E5319B"/>
+      <stop offset="1" stop-color="#E5319B"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="vign" cx="50%" cy="40%" r="75%">
+      <stop offset="0" stop-color="#0F1A1A"/>
+      <stop offset="1" stop-color="#0A0A0A"/>
+    </radialGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="#0A0A0A"/>
+  <rect width="1200" height="300" fill="url(#vign)"/>
+
+  <!-- ===== CIRCUIT MOTIF (cyan traces + nodes) ===== -->
+  <g stroke="#1EC8C8" stroke-width="1.4" fill="none" opacity="0.5" stroke-linecap="round">
+    <path d="M560 60 H760 V110 H900"/>
+    <path d="M600 150 H840 V90"/>
+    <path d="M620 210 H720 V150"/>
+    <path d="M900 60 H1040 V150 H960"/>
+    <path d="M760 240 H1000 V180"/>
+    <path d="M560 110 H600 V210"/>
+    <path d="M840 30 V70 H1080"/>
+    <path d="M980 210 H1120 V90"/>
+  </g>
+  <!-- abstract server / db blocks -->
+  <g stroke="#1EC8C8" fill="none" opacity="0.55" stroke-width="1.3">
+    <rect x="800" y="140" width="60" height="14" rx="2"/>
+    <rect x="800" y="160" width="60" height="14" rx="2"/>
+    <circle cx="810" cy="147" r="2" fill="#1EC8C8"/>
+    <circle cx="810" cy="167" r="2" fill="#1EC8C8"/>
+    <ellipse cx="920" cy="200" rx="22" ry="7"/>
+    <path d="M898 200 V216 A22 7 0 0 0 942 216 V200"/>
+  </g>
+  <!-- glowing nodes -->
+  <g fill="#1EC8C8" filter="url(#glow)">
+    <circle cx="560" cy="60" r="4"/>
+    <circle cx="760" cy="110" r="4"/>
+    <circle cx="840" cy="90" r="3.5"/>
+    <circle cx="1040" cy="150" r="4"/>
+    <circle cx="720" cy="210" r="3.5"/>
+    <circle cx="1080" cy="70" r="3.5"/>
+    <circle cx="1120" cy="90" r="4"/>
+  </g>
+  <!-- animated pulse along a trace -->
+  <circle r="3.5" fill="#E5319B" filter="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M560 60 H760 V110 H900"/>
+  </circle>
+  <circle r="3" fill="#1EC8C8" filter="url(#glow)">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M900 60 H1040 V150 H960"/>
+  </circle>
+
+  <!-- ===== LEFT TEXT BLOCK ===== -->
+  <!-- label pill -->
+  <rect x="70" y="66" width="224" height="30" rx="4" fill="#1EC8C8"/>
+  <text x="84" y="86" font-size="15" font-weight="700" fill="#0A0A0A" letter-spacing="1.2">BUILD · SHIP · GROW</text>
+
+  <!-- name -->
+  <text x="70" y="150" font-size="46" font-weight="800" fill="#FFFFFF">Esperance <tspan fill="#1EC8C8">Ngalu</tspan> Mukenge</text>
+
+  <!-- role -->
+  <text x="72" y="184" font-size="17" fill="#9FB3B3">Founder @ Build &amp; Ship Academy &#160;·&#160; ML · Cloud · AI-Powered SaaS</text>
+
+  <!-- motto -->
+  <text x="72" y="228" font-size="22" font-weight="700" fill="#FFFFFF">Learn.&#160;
+    <tspan fill="#FFFFFF">Build.</tspan>&#160;
+    <tspan fill="#E5319B">Ship.</tspan>&#160;
+    <tspan fill="#1EC8C8">Grow.</tspan>
+  </text>
+
+  <!-- ===== BOTTOM BRAND STRIP ===== -->
+  <rect x="0" y="292" width="1200" height="8" fill="url(#strip)"/>
+</svg>
