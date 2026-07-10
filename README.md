@@ -4,74 +4,183 @@
 
 ---
 
-<h1 align="center"> Hi 🤗 I'm Esperance, founder of Build and Ship academy </h1>
+<!-- ====== HEADER BANNER ====== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Esperance%20Ngalu%20Mukenge&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20Build%20and%20Ship%20Academy%20%7C%20ML%20%C2%B7%20Cloud%20%C2%B7%20AI-Powered%20SaaS&descSize=16&descAlignY=58" alt="header"/>
+</div>
+
+<!-- ====== TYPING ANIMATION ====== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Founder+of+Build+and+Ship+Academy;Machine+Learning+%2B+Maths+Enthusiast;AWS+Cloud+%26+DevOps+Practitioner;I+ship+AI-powered+SaaS;Can-do+attitude%2C+problem+solver+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- ====== SOCIAL / PROFILE BADGES ====== -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/esperance-ngalu-mukenge/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@esperancemuk25" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://mentor.buildandship.academy/about" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://voxbuilder.co.uk" target="_blank">
+    <img src="https://img.shields.io/badge/VoxBuilder-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VoxBuilder"/></a>
+  <a href="mailto:esperancebrooks@buildandship.academy">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=EsperanceB&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</div>
+
+---
+
+<!-- ====== ABOUT ====== -->
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```python
+class Esperance:
+    def __init__(self):
+        self.role      = "Founder @ Build and Ship Academy"
+        self.location  = "Building in public 🌍"
+        self.focus     = ["Machine Learning", "Cloud (AWS)", "AI-powered SaaS"]
+        self.also_love = ["Maths", "Environmental science for sustainability"]
+        self.mindset   = "Can-do attitude · relentless problem solver"
+
+    def current_work(self):
+        return "Shipping SaaS with ML/AI baked in — because my love for AI/ML is still burning 🔥"
+```
+
+- 🎓 &nbsp;Founder of **Build and Ship Academy** — training + SaaS business
+- 🧠 &nbsp;Deep interest in **Machine Learning + Maths**, now also **Software Development & DevOps**
+- ☁️ &nbsp;Growing skills across **AWS cloud platforms**, ML/AI, and full-stack development
+- 🌱 &nbsp;Passionate about **environmental science** and sustainable development
+- 🚀 &nbsp;Every SaaS I build ships with AI/ML features — real-world ML in production
+- 📫 &nbsp;Reach me at **esperancebrooks@buildandship.academy**
+- 🏆 &nbsp;My [**AWS certification badges**](https://skillsprofile.skillbuilder.aws/user/EsperanceB/certification-badges)
+- 💬 &nbsp;Ask me about **ML, cloud, or building & shipping fast**
+
+---
+
+<!-- ====== PRODUCTS ====== -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I'm Building
+
+| Product | What it is | Status |
+| :--- | :--- | :---: |
+| 🎓 **[Build and Ship Academy LMS]** | Training + SaaS business teaching people to build & ship | 🟡 Coming soon |
+| 🗣️ **[VoxBuilder](https://app.voxbuilder.co.uk)** | AI-powered voice/build product | 🟢 Live |
+| 🛠️ **Build and Ship Hub** | A platform for builders to share insight | 🟡 Coming soon |
+| 🧠💡**[Free AI skills assessment]**(https://mentor.buildandship.academy/checkout?bundle=intake) | AI powered Skills assessment grounded in O*net data | 🟢 Live |
+| 🧠📈 **[CloudPrep]** |AI powered learning platform for AWS cert and Interview preparation | 🟡 Coming soon |
+
+---
+
+<!-- ====== FEATURED PROJECTS (PINNED CARDS) ====== -->
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured Projects
+
+<!-- Replace REPO_NAME values below with your actual repo names -->
+<div align="center">
+  <a href="https://github.com/EsperanceB/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="project 1"/></a>
+  <a href="https://github.com/EsperanceB/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="project 2"/></a>
+</div>
+<div align="center">
+  <a href="https://github.com/EsperanceB/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="project 3"/></a>
+  <a href="https://github.com/EsperanceB/REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="project 4"/></a>
+</div>
+
+---
+
+<!-- ====== TECH STACK ====== -->
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Stack & Tooling
+
+**Languages & ML**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+**Web & SaaS**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+<!-- ====== GITHUB STATS ====== -->
+### <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EsperanceB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsperanceB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EsperanceB&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EsperanceB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</div>
+
+<!-- ====== WAKATIME CODING STATS ====== -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EsperanceB&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime stats" />
+</div>
+
+<!-- ====== CONTRIBUTION SNAKE ====== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EsperanceB/EsperanceB/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+<!-- ====== BLOG ====== -->
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Latest from the Blog
+
+<!-- BLOG-POST-LIST:START -->
+- 📝 Read my writing on ML, cloud & building in public → **[~Esperance NGALU~ on Medium](https://medium.com/@esperancemuk25)**
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<!-- ====== QUOTE ====== -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
+
+---
 
 <div align="center">
   <samp>
-    <p>Passionate about Machine Learning, Cloud Computing and environemental science for sustainable development. </p>
-    <p>I love solving proplems, with a can do attitude. With growing Skills in AWS cloud platforms, Machine Learning and AI, and Sofware Development 🌐</p>
-    <p>Recently, I work more on Software development with AI building a Training and SaaS business. I founded Build and Ship academy</p>
-    <p>I include in all my SaaS AI features or ML because my love for AI and ML is still burning and this gives me a way to experience how AI and ML are actually used.</p>
+    Thanks for diving into my profile! Got questions, feedback, or just a good chat?<br/>
+    Hit me up — I'm all ears (and keyboards). ⌨️
   </samp>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" width="100%" alt="footer"/>
 </div>
-
---- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EsperanceB&label=Profile%20views&color=0e75b6&style=flat" alt="EsperanceB" /> </p>
-
-<div>
-  <samp>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/esperance-ngalu-mukenge/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://medium.com/@esperancemuk25" target="blank"><img align="center"
-          src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-          alt="azzar" height="30"/></a>
-      
-</div>
-
-<samp>
-
-### Tech Stack:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-CI/CD-FF6C37?&logo=Jenkins&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?&logo=Bash&logoColor=white" alt="Bash-Scripting"/>
-
-</p>
-
----
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EsperanceB&show_icons=true&locale=en" alt="EsperanceB" /></p>
-
-
----
-  
-- 💙 Passionate about **Machine Learning + Maths**, now also Software Development and DevOps
-- 📫 Reach me at **esperancebrooks@buildandship.academy** 
-- 🏆 Find my AWS Achievements at **https://skillsprofile.skillbuilder.aws/user/EsperanceB/certification-badges**
-- 🙆 Know about me at https://mentor.buildandship.academy/about
-- Visit my products: VoxBuilder.co.uk
-- Comming soon, Builder Hub: a platform for builders to share insight.
-
-
-### Blogs posts:
-
-<a href="https://medium.com/@esperancemuk25" target="_blank">~Esperance NGALU~ On Medium</a> 
-
----
-
----
-
-
-<p>Appreciate you diving into my GitHub profile! Got questions, feedback, or just a good chat? Hit me up—I'm all ears (and keyboards)! </p>
-<h3 align="left">Let's connect:</h3>
-<p align="left">
-<a href="https://medium.com/@esperancemuk25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@esperancemuk25" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/esperance-ngalu-mukenge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EsperanceB" height="30" width="40" /></a>
-</p>
-
-</samp>
