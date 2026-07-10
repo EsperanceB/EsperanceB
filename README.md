@@ -10,6 +10,8 @@
   <samp>
     <p>Passionate about Machine Learning, Cloud Computing and environemental science for sustainable development. </p>
     <p>I love solving proplems, with a can do attitude. With growing Skills in AWS cloud platforms, Machine Learning and AI, and Sofware Development 🌐</p>
+    <p>Recently, I work more on Software development with AI building a Training and SaaS business. I founded Build and Ship academy</p>
+    <p>I include in all my SaaS AI features or ML because my love for AI and ML is still burning and this gives me a way to experience how AI and ML are actually used.</p>
   </samp>
 </div>
 
@@ -48,10 +50,12 @@
 
 ---
   
-- 💙 Passionate about **Machine Learning + Maths**
-- 📫 Reach me at **esperancemuk25@gmail.com** 
+- 💙 Passionate about **Machine Learning + Maths**, now also Software Development and DevOps
+- 📫 Reach me at **esperancebrooks@buildandship.academy** 
 - 🏆 Find my AWS Achievements at **https://skillsprofile.skillbuilder.aws/user/EsperanceB/certification-badges**
-- 🙆 Know about me at https://esperance-brooks.com
+- 🙆 Know about me at https://mentor.buildandship.academy/about
+- Visit my products: VoxBuilder.co.uk
+- Comming soon, Builder Hub: a platform for builders to share insight.
 
 
 ### Blogs posts:
