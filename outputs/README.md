@@ -15,7 +15,7 @@
      PNG is used here because GitHub renders it reliably everywhere.
      For the animated version, swap the src to ./assets/banner.svg -->
 <div align="center">
-  <img width="100%" src="./assets/banner.png" alt="Esperance Ngalu Mukenge — Build & Ship Academy" />
+  <img width="100%" src="./outputs/banner.png" alt="Esperance Ngalu Mukenge — Build & Ship Academy" />
 </div>
 
 <!-- ====== MOTTO STRIP ====== -->
