@@ -1,8 +1,8 @@
 <!-- ============================================================
-     BRAND PALETTE
-     Black       #0D0D0D   (predominant)
-     Turquoise   #1DE9B6   (primary accent)
-     Pink        #FF4FA3   (secondary accent)
+     BRAND PALETTE (matches Build & Ship Academy banner)
+     Black      #0A0A0A   (predominant)
+     Cyan       #1EC8C8   (primary accent)
+     Magenta    #E5319B   (secondary accent)
 ============================================================= -->
 
 <!-- ====== HELLO IN MANY LANGUAGES (original) ====== -->
@@ -10,32 +10,42 @@
   <img width="200" alt="Hello in many languages" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" />
 </div>
 
-<!-- ====== HEADER BANNER (black → turquoise → pink) ====== -->
+<!-- ====== BRANDED SVG BANNER ======
+     Put banner.svg in your repo (e.g. /assets/banner.svg) and it renders here.
+     Circuit-line + cyan/magenta style to match the Build & Ship Academy banner. -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1DE9B6,100:FF4FA3&height=200&section=header&text=Esperance%20Ngalu%20Mukenge&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20Build%20and%20Ship%20Academy%20%7C%20ML%20%C2%B7%20Cloud%20%C2%B7%20AI-Powered%20SaaS&descSize=16&descAlignY=58" alt="header"/>
+  <img width="100%" src="./assets/banner.svg" alt="Esperance Ngalu Mukenge — Build & Ship Academy" />
+</div>
+
+<!-- ====== MOTTO STRIP ====== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Learn-0A0A0A?style=for-the-badge&labelColor=0A0A0A" alt="Learn"/>
+  <img src="https://img.shields.io/badge/Build-0A0A0A?style=for-the-badge&labelColor=0A0A0A" alt="Build"/>
+  <img src="https://img.shields.io/badge/Ship-E5319B?style=for-the-badge&labelColor=E5319B" alt="Ship"/>
+  <img src="https://img.shields.io/badge/Grow-1EC8C8?style=for-the-badge&labelColor=1EC8C8" alt="Grow"/>
 </div>
 
 <!-- ====== TYPING ANIMATION (turquoise) ====== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=Founder+of+Build+and+Ship+Academy;Machine+Learning+%2B+Maths+Enthusiast;AWS+Cloud+%26+DevOps+Practitioner;I+ship+AI-powered+SaaS;Can-do+attitude%2C+problem+solver+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1EC8C8&center=true&vCenter=true&width=600&lines=Founder+of+Build+and+Ship+Academy;Machine+Learning+%2B+Maths+Enthusiast;AWS+Cloud+%26+DevOps+Practitioner;I+ship+AI-powered+SaaS;Can-do+attitude%2C+problem+solver+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- ====== SOCIAL / PROFILE BADGES (brand palette) ====== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/esperance-ngalu-mukenge/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=1DE9B6" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=1EC8C8" alt="LinkedIn"/></a>
   <a href="https://medium.com/@esperancemuk25" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-0D0D0D?style=for-the-badge&logo=medium&logoColor=FF4FA3" alt="Medium"/></a>
+    <img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=E5319B" alt="Medium"/></a>
   <a href="https://mentor.buildandship.academy/about" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DE9B6?style=for-the-badge&logo=vercel&logoColor=0D0D0D" alt="Portfolio"/></a>
+    <img src="https://img.shields.io/badge/Portfolio-1EC8C8?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio"/></a>
   <a href="https://voxbuilder.co.uk" target="_blank">
-    <img src="https://img.shields.io/badge/VoxBuilder-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=0D0D0D" alt="VoxBuilder"/></a>
+    <img src="https://img.shields.io/badge/VoxBuilder-E5319B?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A" alt="VoxBuilder"/></a>
   <a href="mailto:esperancebrooks@buildandship.academy">
-    <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF4FA3" alt="Email"/></a>
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E5319B" alt="Email"/></a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=EsperanceB&label=Profile%20views&color=1DE9B6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=EsperanceB&label=Profile%20views&color=1EC8C8&style=for-the-badge" alt="profile views" />
 </div>
 
 ---
@@ -67,6 +77,33 @@ class Esperance:
 
 ---
 
+<!-- ====== HOW I BUILD (banner workflow) ====== -->
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> How I Build
+
+<div align="center">
+  <img src="https://img.shields.io/badge/1.%20Idea-0A0A0A?style=for-the-badge&logo=lightbulb&logoColor=1EC8C8" alt="Idea"/>
+  <img src="https://img.shields.io/badge/%E2%86%92-0A0A0A?style=for-the-badge" alt="to"/>
+  <img src="https://img.shields.io/badge/2.%20Build-0A0A0A?style=for-the-badge&logo=codicon&logoColor=E5319B" alt="Build"/>
+  <img src="https://img.shields.io/badge/%E2%86%92-0A0A0A?style=for-the-badge" alt="to"/>
+  <img src="https://img.shields.io/badge/3.%20Deploy-0A0A0A?style=for-the-badge&logo=icloud&logoColor=1EC8C8" alt="Deploy"/>
+  <img src="https://img.shields.io/badge/%E2%86%92-0A0A0A?style=for-the-badge" alt="to"/>
+  <img src="https://img.shields.io/badge/4.%20Proof-0A0A0A?style=for-the-badge&logo=verifiedbadge&logoColor=E5319B" alt="Proof"/>
+  <br/>
+  <sub><b><i>Ship. Learn. Iterate. Repeat.</i></b></sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/REAL-1EC8C8?style=flat-square&labelColor=1EC8C8"/> **Community** | <img src="https://img.shields.io/badge/REAL-E5319B?style=flat-square&labelColor=E5319B"/> **Projects** | <img src="https://img.shields.io/badge/REAL-1EC8C8?style=flat-square&labelColor=1EC8C8"/> **Impact** |
+| :---: | :---: | :---: |
+| Learn together.<br/>Grow together. | Build a portfolio<br/>that opens doors. | Ship solutions.<br/>Create change. |
+
+</div>
+
+---
+
 <!-- ====== PRODUCTS ====== -->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> What I'm Building
 
@@ -84,15 +121,15 @@ class Esperance:
 <!-- Replace REPO_NAME values below with your actual repo names -->
 <div align="center">
   <a href="https://github.com/EsperanceB/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_1&bg_color=0D0D0D&title_color=1DE9B6&text_color=FFFFFF&icon_color=FF4FA3&border_color=1DE9B6" alt="project 1"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_1&bg_color=0A0A0A&title_color=1EC8C8&text_color=FFFFFF&icon_color=E5319B&border_color=1EC8C8" alt="project 1"/></a>
   <a href="https://github.com/EsperanceB/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_2&bg_color=0D0D0D&title_color=1DE9B6&text_color=FFFFFF&icon_color=FF4FA3&border_color=1DE9B6" alt="project 2"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_2&bg_color=0A0A0A&title_color=1EC8C8&text_color=FFFFFF&icon_color=E5319B&border_color=1EC8C8" alt="project 2"/></a>
 </div>
 <div align="center">
   <a href="https://github.com/EsperanceB/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_3&bg_color=0D0D0D&title_color=1DE9B6&text_color=FFFFFF&icon_color=FF4FA3&border_color=1DE9B6" alt="project 3"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_3&bg_color=0A0A0A&title_color=1EC8C8&text_color=FFFFFF&icon_color=E5319B&border_color=1EC8C8" alt="project 3"/></a>
   <a href="https://github.com/EsperanceB/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_4&bg_color=0D0D0D&title_color=1DE9B6&text_color=FFFFFF&icon_color=FF4FA3&border_color=1DE9B6" alt="project 4"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EsperanceB&repo=REPO_NAME_4&bg_color=0A0A0A&title_color=1EC8C8&text_color=FFFFFF&icon_color=E5319B&border_color=1EC8C8" alt="project 4"/></a>
 </div>
 
 ---
@@ -103,35 +140,35 @@ class Esperance:
 **Languages & ML**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0D0D0D?style=for-the-badge&logo=scikit-learn&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/NumPy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=FF4FA3"/>
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikit-learn&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=E5319B"/>
 </p>
 
 **Cloud & DevOps**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazonwebservices&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/Jenkins-0D0D0D?style=for-the-badge&logo=jenkins&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/Bash-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=1DE9B6"/>
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonwebservices&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/Jenkins-0A0A0A?style=for-the-badge&logo=jenkins&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/Bash-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=1EC8C8"/>
 </p>
 
 **Web & SaaS**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=1DE9B6"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF4FA3"/>
-  <img src="https://img.shields.io/badge/OpenAI-0D0D0D?style=for-the-badge&logo=openai&logoColor=1DE9B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=1EC8C8"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=E5319B"/>
+  <img src="https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=1EC8C8"/>
 </p>
 
 ---
@@ -140,12 +177,12 @@ class Esperance:
 ### <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EsperanceB&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=1DE9B6&text_color=FFFFFF&icon_color=FF4FA3&border_color=1DE9B6" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsperanceB&layout=compact&langs_count=8&bg_color=0D0D0D&title_color=1DE9B6&text_color=FFFFFF&border_color=1DE9B6" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EsperanceB&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=1EC8C8&text_color=FFFFFF&icon_color=E5319B&border_color=1EC8C8" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsperanceB&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=1EC8C8&text_color=FFFFFF&border_color=1EC8C8" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EsperanceB&background=0D0D0D&border=1DE9B6&stroke=1DE9B6&ring=FF4FA3&fire=FF4FA3&currStreakLabel=1DE9B6&sideLabels=1DE9B6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=EsperanceB&background=0A0A0A&border=1EC8C8&stroke=1EC8C8&ring=E5319B&fire=E5319B&currStreakLabel=1EC8C8&sideLabels=1EC8C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="streak" />
 </div>
 
 <div align="center">
@@ -154,7 +191,7 @@ class Esperance:
 
 <!-- ====== WAKATIME CODING STATS ====== -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EsperanceB&layout=compact&bg_color=0D0D0D&title_color=1DE9B6&text_color=FFFFFF&border_color=1DE9B6" alt="wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EsperanceB&layout=compact&bg_color=0A0A0A&title_color=1EC8C8&text_color=FFFFFF&border_color=1EC8C8" alt="wakatime stats" />
 </div>
 
 <!-- ====== CONTRIBUTION SNAKE (pink snake on black) ====== -->
@@ -186,5 +223,5 @@ class Esperance:
     Hit me up — I'm all ears (and keyboards). ⌨️
   </samp>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:1DE9B6,100:0D0D0D&height=100&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5319B,50:1EC8C8,100:0A0A0A&height=100&section=footer" width="100%" alt="footer"/>
 </div>
