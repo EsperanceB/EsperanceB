@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center"> Hi 🤗 I'm Esperance </h1>
+<h1 align="center"> Hi 🤗 I'm Esperance, founder of Build and Ship academy </h1>
 
 <div align="center">
   <samp>
