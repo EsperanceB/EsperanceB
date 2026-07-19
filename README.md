@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://mentor.buildandship.academy/about" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://voxbuilder.co.uk" target="_blank">
+  <a href="https://app.voxbuilder.co.uk" target="_blank">
     <img src="https://img.shields.io/badge/VoxBuilder-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VoxBuilder"/></a>
   <a href="mailto:esperancebrooks@buildandship.academy">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
